@@ -10,7 +10,7 @@ To install the _npm_ please visit the [Node.js](https://nodejs.org/en/) official
 
 After insttal the _Node.js_, open your terminal and run the code: **_npm install json-server_**
 
-Now to the "backend" diretory and run in your terminal the following code: **_json-server --watch db.json --port 3001_**
+Now go to the "backend" diretory and run in your terminal the following code: **_json-server --watch db.json --port 3001_**
 
 Let this terminal running
 
