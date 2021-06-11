@@ -16,7 +16,7 @@ Finally, run: npm start
 
 This project is a challenge propourse for the Elofy company
 
-To check the model page: [https://www.instagram.com/](https://www.instagram.com/)
+To check the model page: [https://www.figma.com/community/file/786976918221602322](https://www.figma.com/community/file/786976918221602322)
 
 ## Technologies:
 :small_orange_diamond: ReactJS
