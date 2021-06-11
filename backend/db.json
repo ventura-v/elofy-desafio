@@ -1,0 +1,68 @@
+{
+  "contributors": [
+    {
+      "id": 1,
+      "nome_usuario": "Joao",
+      "peso": 80,
+      "altura": 1.5,
+      "atleta": 1,
+      "lactose": 0
+    },
+    {
+      "id": 2,
+      "atleta": 1,
+      "altura": 1.75,
+      "lactose": 0,
+      "nome_usuario": "Ricardo",
+      "peso": 120.4
+    },
+    {
+      "id": 3,
+      "atleta": 0,
+      "altura": 1.8,
+      "lactose": 0,
+      "nome_usuario": "Paulo",
+      "peso": 70
+    },
+    {
+      "id": 4,
+      "atleta": 1,
+      "altura": 1.86,
+      "lactose": 0,
+      "nome_usuario": "Márcio",
+      "peso": 76.4
+    },
+    {
+      "id": 5,
+      "atleta": 0,
+      "altura": 1.54,
+      "lactose": 0,
+      "nome_usuario": "Agatha",
+      "peso": 62.5
+    },
+    {
+      "id": 6,
+      "nome_usuario": "Stefany",
+      "peso": 60.9,
+      "altura": 1.7,
+      "atleta": 0,
+      "lactose": 0
+    },
+    {
+      "id": 7,
+      "atleta": 1,
+      "altura": 1.72,
+      "lactose": 1,
+      "nome_usuario": "Nair",
+      "peso": 97.2
+    },
+    {
+      "id": 8,
+      "nome_usuario": "Giovana",
+      "peso": 80.5,
+      "altura": 1.67,
+      "atleta": 0,
+      "lactose": 0
+    }
+  ]
+}
