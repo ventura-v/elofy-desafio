@@ -19,8 +19,9 @@ This project is a challenge propourse for the Elofy company
 To check the model page: [https://www.figma.com/community/file/786976918221602322](https://www.figma.com/community/file/786976918221602322)
 
 ## Technologies:
-:small_orange_diamond: ReactJS
 
-:small_blue_diamond: Sass
+:small_blue_diamond: ReactJS
+
+:small_orange_diamond: Sass
 
 ## Status: Done :heavy_check_mark:
