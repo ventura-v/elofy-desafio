@@ -14,7 +14,7 @@ Now go to the "backend" diretory and run in your terminal the following code: **
 
 Let this terminal running
 
-Now, open a new terminal and go to the "client" diretory. First, run the code: **_npm install_**
+Open a new terminal and go to the "client" diretory. First, run the code: **_npm install_**
 
 Finally, run: **_npm start_**
 
