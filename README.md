@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to start
 
-Before you start, you'll nedd the **_npm_** and **_JSON Server_** installed in your computer
+Before you start, you'll need the **_npm_** and **_JSON Server_** installed in your computer
 
 To install the _npm_ please visit the [Node.js](https://nodejs.org/en/) official website and download the _Node.js_
 
