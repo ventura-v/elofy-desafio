@@ -1,0 +1,56 @@
+.edit-contributor-wrapper{
+    margin: 100px auto 0;
+    padding: 20px 0;
+    max-width: 40vw;
+    background-color: #EBF2FF;
+    border-radius: 20px;
+    color: #2E3B52;
+
+    select,
+    input,
+    button{
+        border: none;
+        outline: none;
+        height: 30px;
+        padding-left: 10px;
+        background: #DAE1EC;
+        border-radius: 5px;
+    }
+
+    input:focus,
+    select:focus{
+        border: 1px solid #0A65FF;
+    }
+
+    form{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+
+        input,
+        select{
+            margin-bottom: 20px;
+        }
+
+        #name{
+            width: 200px;
+        }
+
+        #weight,
+        #height{
+            width: 50px;
+        }
+
+        .save-contributor{
+            margin: 20px 0 0;
+            background-color: #0A65FF;
+            color: #FFF;
+        }
+
+        .save-contributor:hover{
+            cursor: pointer;
+            background-color: #0052DB;
+        }
+    }
+}
