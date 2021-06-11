@@ -4,13 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to start
 
-Go to the "backend" diretory and run in your terminal the following code: _json-server --watch db.json --port 3001_
+Go to the "backend" diretory and run in your terminal the following code: *_json-server --watch db.json --port 3001_*
 
 Let this terminal running
 
-Now, open a new terminal and go to the "client" diretory. First, run the code: _npm install_
+Now, open a new terminal and go to the "client" diretory. First, run the code: *_npm install_*
 
-Finally, run: _npm start_
+Finally, run: *_npm start_*
 
 ## About the project
 
