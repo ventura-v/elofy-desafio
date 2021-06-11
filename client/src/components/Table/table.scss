@@ -1,0 +1,73 @@
+.table-wrapper{
+    margin: 0 auto;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+
+    .table-content{
+
+        .drop-up:hover,
+        .drop-down:hover,
+        .contributor-edit:hover,
+        .contributor-delete:hover{
+            cursor: pointer;
+        }
+
+        .table-header{
+
+            text-transform: uppercase;
+    
+            .table-name-wapper{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+    
+                .drop-wrapper{
+                    display: flex;
+                    flex-direction: column;
+                    color: #606F89;
+                    fill: currentColor;
+                }
+            }
+        }
+        
+        .contributor-row{
+            color: #606F89;
+            fill: currentColor;
+            height: 50px;
+
+            .contributor-edit{
+                a{
+                    color: #606F89;
+                    fill: currentColor;
+                }
+            }
+
+            .contributor-delete{
+                button{
+                    border: none;
+                    outline: none;
+                    background-color: transparent;
+                    color: #606F89;
+                    fill: currentColor;
+                }
+
+                button:hover{
+                    cursor: pointer;
+                }
+            }
+        }
+
+        .contributor-row:nth-child(2n){
+            background-color: #FFF;
+        }
+
+        .contributor-row:hover{
+            background-color: #EBF2FF;
+        }
+
+        input:active{
+            background-color: #EBF2FF;
+        }
+    }
+}
