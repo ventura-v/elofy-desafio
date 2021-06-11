@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Before you start, you'll need the **_npm_** and **_JSON Server_** installed in your computer
 
-To install the _npm_ please visit the [Node.js](https://nodejs.org/en/) official website and download the _Node.js_
+To install the _npm_ please visit the [Node.js](https://nodejs.org/en/) official website and download it
 
 After insttal the _Node.js_, open your terminal and run the code: **_npm install json-server_**
 
