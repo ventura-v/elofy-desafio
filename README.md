@@ -14,7 +14,7 @@ Finally, run: npm start
 
 ## About the project
 
-This project is a challenge propourse for the Elofy company
+This project is a challenge proposed by the company Elofy for the position of front-end developer
 
 To check the model page: [https://www.figma.com/community/file/786976918221602322](https://www.figma.com/community/file/786976918221602322)
 
