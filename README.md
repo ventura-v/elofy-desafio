@@ -26,8 +26,6 @@ To check the model page: [https://www.figma.com/community/file/78697691822160232
 
 ## Technologies:
 
-:small_blue_diamond: ReactJS
-
-:small_orange_diamond: Sass
+:snowflake: ReactJS
 
 ## Status: Done :heavy_check_mark:
